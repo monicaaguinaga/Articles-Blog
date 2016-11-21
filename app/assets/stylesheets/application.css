@@ -13,3 +13,26 @@
  *= require_tree .
  *= require_self
  */
+
+
+body {
+  padding: 100px;
+  background-color: #F9F8EF;
+  color: #777673;
+  font-family: 'Cutive Mono', monospace;
+
+}
+td, th {
+  padding: 10px;
+}
+
+.text {
+  width: 500px;
+
+}
+
+.title {
+  font-weight: bold;
+  text-transform: uppercase;
+  margin: -20px;
+}
